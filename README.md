@@ -24,12 +24,5 @@ A decentralized crowdfunding application built on the Solana blockchain using th
 - [Contributing](#contributing)
 - [License](#license)
 
----
 
-## Installation
 
-Ensure you have the following prerequisites installed:
-
-1. **Rust**: Install Rust and Cargo by running:
-   ```bash
-   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
